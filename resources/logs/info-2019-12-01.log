@@ -1,0 +1,70 @@
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/hero HTTP/1.1 200 316 - 1635.211 ms","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 200 319 - 1160.065 ms","level":"info"}
+{"message":"::ffff:192.168.0.5 - GET /cambridge/angel HTTP/1.1 200 319 - 6.384 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /Fever HTTP/1.1 404 144 - 114.675 ms","level":"info"}
+{"message":"::ffff:192.168.0.5 - GET /cambridge/Fever HTTP/1.1 200 318 - 3570.396 ms","level":"info"}
+{"message":"::ffff:192.168.0.5 - GET /cambridge/Fever HTTP/1.1 200 318 - 130.030 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/Fever HTTP/1.1 200 318 - 14.261 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/Fever HTTP/1.1 200 318 - 4.336 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/Fever HTTP/1.1 200 318 - 10.309 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/Fever HTTP/1.1 200 318 - 4.989 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/Fever HTTP/1.1 200 318 - 14.656 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/fever HTTP/1.1 200 318 - 125.294 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/ HTTP/1.1 404 149 - 458.394 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/ HTTP/1.1 404 149 - 0.335 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/ HTTP/1.1 404 149 - 0.198 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/ HTTP/1.1 404 149 - 0.691 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/ HTTP/1.1 404 149 - 0.566 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/ HTTP/1.1 404 149 - 0.169 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/ HTTP/1.1 404 149 - 0.540 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/ HTTP/1.1 404 149 - 0.518 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/ HTTP/1.1 404 149 - 0.149 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/ HTTP/1.1 404 149 - 0.616 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/punched HTTP/1.1 200 305 - 4155.944 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/punched HTTP/1.1 200 305 - 1582.960 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/punched HTTP/1.1 200 305 - 1281.443 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/car HTTP/1.1 200 297 - 1032.700 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/dickhead HTTP/1.1 200 319 - 969.590 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/turns HTTP/1.1 200 300 - 1627.893 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/turns HTTP/1.1 200 300 - 1555.026 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/turns HTTP/1.1 200 300 - 1402.953 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/time HTTP/1.1 200 301 - 1266.215 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/same HTTP/1.1 200 304 - 1159.878 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/angry HTTP/1.1 200 320 - 1012.829 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/come HTTP/1.1 200 297 - 1202.030 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/step HTTP/1.1 200 297 - 1076.717 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/favour HTTP/1.1 200 259 - 1065.170 ms","level":"info"}
+{"message":"::ffff:192.168.0.5 - GET /cambridge/favour HTTP/1.1 200 259 - 1060.170 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/follow HTTP/1.1 200 316 - 1415.557 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/country HTTP/1.1 200 317 - 2670.691 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::ffff:192.168.0.5 - GET /cambridge/favour HTTP/1.1 200 259 - 1873.744 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::ffff:192.168.0.5 - GET /cambridge/favour HTTP/1.1 200 306 - 1908.371 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::ffff:192.168.0.5 - GET /cambridge/favour HTTP/1.1 200 329 - 1886.622 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::ffff:192.168.0.5 - GET /cambridge/favour HTTP/1.1 200 279 - 2080.540 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/her HTTP/1.1 200 316 - 45.867 ms","level":"info"}
+{"message":"::ffff:192.168.0.5 - GET /cambridge/her HTTP/1.1 200 316 - 3.473 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::ffff:192.168.0.5 - GET /cambridge/her HTTP/1.1 200 316 - 19.859 ms","level":"info"}
+{"message":"::ffff:192.168.0.5 - GET /cambridge/her HTTP/1.1 200 316 - 8.006 ms","level":"info"}
+{"message":"::ffff:192.168.0.5 - GET /cambridge/he HTTP/1.1 200 316 - 4.915 ms","level":"info"}
+{"message":"::ffff:192.168.0.5 - GET /cambridge/he HTTP/1.1 200 316 - 3.427 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::ffff:192.168.0.5 - GET /cambridge/he HTTP/1.1 200 316 - 66.800 ms","level":"info"}
+{"message":"::ffff:192.168.0.5 - GET /cambridge/he HTTP/1.1 200 316 - 8.325 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"level":"error","message":"Scraping-URL"}
+{"message":"::ffff:192.168.0.5 - GET /cambridge/he HTTP/1.1 200 319 - 1839.172 ms","level":"info"}
+{"level":"error","message":"Scraping-URL"}
+{"message":"::ffff:192.168.0.5 - GET /cambridge/her HTTP/1.1 200 335 - 1685.941 ms","level":"info"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/her HTTP/1.1 200 314 - 19.526 ms","level":"info"}
+{"level":"error","message":"Scraping-URL"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/blindly HTTP/1.1 200 333 - 1490.107 ms","level":"info"}
+{"level":"error","message":"Scraping-URL"}
+{"message":"::ffff:192.168.0.2 - GET /cambridge/party. HTTP/1.1 200 338 - 1941.005 ms","level":"info"}

@@ -1,0 +1,203 @@
+{"error":{},"level":"error","message":"uncaughtException: Router.use() requires a middleware function but got a Object\nTypeError: Router.use() requires a middleware function but got a Object\n    at Function.use (C:\\Users\\Usuario\\Desktop\\floating-dictionary-back\\node_modules\\express\\lib\\router\\index.js:458:13)\n    at Function.<anonymous> (C:\\Users\\Usuario\\Desktop\\floating-dictionary-back\\node_modules\\express\\lib\\application.js:220:21)\n    at Array.forEach (<anonymous>)\n    at Function.use (C:\\Users\\Usuario\\Desktop\\floating-dictionary-back\\node_modules\\express\\lib\\application.js:217:7)\n    at Object.<anonymous> (C:\\Users\\Usuario\\Desktop\\floating-dictionary-back\\index.js:12:5)\n    at Module._compile (internal/modules/cjs/loader.js:689:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)\n    at Module.load (internal/modules/cjs/loader.js:599:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:530:3)","stack":"TypeError: Router.use() requires a middleware function but got a Object\n    at Function.use (C:\\Users\\Usuario\\Desktop\\floating-dictionary-back\\node_modules\\express\\lib\\router\\index.js:458:13)\n    at Function.<anonymous> (C:\\Users\\Usuario\\Desktop\\floating-dictionary-back\\node_modules\\express\\lib\\application.js:220:21)\n    at Array.forEach (<anonymous>)\n    at Function.use (C:\\Users\\Usuario\\Desktop\\floating-dictionary-back\\node_modules\\express\\lib\\application.js:217:7)\n    at Object.<anonymous> (C:\\Users\\Usuario\\Desktop\\floating-dictionary-back\\index.js:12:5)\n    at Module._compile (internal/modules/cjs/loader.js:689:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)\n    at Module.load (internal/modules/cjs/loader.js:599:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:530:3)","exception":true,"date":"Sun Nov 24 2019 13:05:58 GMT-0500 (GMT-05:00)","process":{"pid":9028,"uid":null,"gid":null,"cwd":"C:\\Users\\Usuario\\Desktop\\floating-dictionary-back","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v10.15.2","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\Usuario\\Desktop\\floating-dictionary-back\\index.js"],"memoryUsage":{"rss":36081664,"heapTotal":21741568,"heapUsed":11974512,"external":255851}},"os":{"loadavg":[0,0,0],"uptime":19748},"trace":[{"column":13,"file":"C:\\Users\\Usuario\\Desktop\\floating-dictionary-back\\node_modules\\express\\lib\\router\\index.js","function":"Function.use","line":458,"method":"use","native":false},{"column":21,"file":"C:\\Users\\Usuario\\Desktop\\floating-dictionary-back\\node_modules\\express\\lib\\application.js","function":null,"line":220,"method":null,"native":false},{"column":null,"file":null,"function":"Array.forEach","line":null,"method":"forEach","native":false},{"column":7,"file":"C:\\Users\\Usuario\\Desktop\\floating-dictionary-back\\node_modules\\express\\lib\\application.js","function":"Function.use","line":217,"method":"use","native":false},{"column":5,"file":"C:\\Users\\Usuario\\Desktop\\floating-dictionary-back\\index.js","function":null,"line":12,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":689,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":700,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":599,"method":"load","native":false},{"column":12,"file":"internal/modules/cjs/loader.js","function":"tryModuleLoad","line":538,"method":null,"native":false},{"column":3,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":530,"method":"_load","native":false}]}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET / HTTP/1.1 404 139 - 2.262 ms","level":"info"}
+{"message":"::1 - GET /cambridge HTTP/1.1 200 6 - 3.611 ms","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 404 154 - 0.320 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 200 7 - 3.503 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 200 288801 - 1335.927 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 200 280461 - 1060.917 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 200 280461 - 1230.079 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 200 18 - 1431.487 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 200 18 - 1491.417 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 200 18 - 1415.815 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 200 18 - 1761.310 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 200 36 - 1754.665 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 200 36 - 3243.911 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 200 36 - 2634.686 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 200 2 - 3051.562 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 200 2 - 2212.071 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 200 2 - 2176.059 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/angel HTTP/1.1 200 2 - 2205.062 ms","level":"info"}
+{"message":"::1 - GET /cambridge/base HTTP/1.1 200 2 - 2216.848 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/base HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/base HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/base HTTP/1.1 200 2 - 3752.348 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/base HTTP/1.1 200 2 - 2538.385 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/base HTTP/1.1 200 205 - 2361.858 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/base HTTP/1.1 200 535 - 3367.351 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/base HTTP/1.1 200 388 - 3884.977 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/base HTTP/1.1 200 59 - 5071.547 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/base HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/base HTTP/1.1 200 33 - 3647.467 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/base HTTP/1.1 200 56 - 2203.600 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/base HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/base HTTP/1.1 200 33 - 3579.490 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/base HTTP/1.1 200 33 - 2288.040 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/base HTTP/1.1 200 33 - 2562.349 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/base HTTP/1.1 200 33 - 2617.665 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/base HTTP/1.1 200 33 - 2807.376 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/base HTTP/1.1 200 33 - 2606.496 ms","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 46 - 2141.649 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 79 - 2404.552 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 93 - 3969.731 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 93 - 2590.114 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 - - - - ms","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 79 - 3776.586 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 81 - 3275.573 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 80 - 10238.196 ms","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 80 - 8199.320 ms","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 80 - 5930.620 ms","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 80 - 5753.699 ms","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 80 - 16738.417 ms","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 80 - 4431.664 ms","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 80 - 5809.507 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 80 - 18171.209 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 80 - 3684.769 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 80 - 7852.962 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 80 - 3742.120 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 71 - 12140.256 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 71 - 6236.640 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 71 - 4873.075 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 71 - 17605.451 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 77 - 9394.513 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 91 - 3189.622 ms","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 91 - 3059.927 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 90 - 5841.429 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 78 - 4469.734 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 78 - 2606.870 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 95 - 4370.610 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 92 - 2645.933 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 116 - 3716.188 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 116 - 5443.971 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 116 - 10915.491 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 116 - 4023.077 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 116 - 4133.734 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 116 - 11393.967 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 - - - - ms","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 - - - - ms","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 116 - 7993.144 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 - - - - ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 116 - 13239.231 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 116 - 4838.965 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 116 - 29932.369 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 199 - 4478.905 ms","level":"info"}
+{"message":"** APLICATION START **","level":"info"}
+{"message":"::1 - GET /cambridge/what HTTP/1.1 200 308 - 3263.134 ms","level":"info"}

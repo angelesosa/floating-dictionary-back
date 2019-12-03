@@ -1,0 +1,19 @@
+version: "2"
+services:
+  app:
+    container_name: dictionary-node-app
+    restart: always
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./resources/logs:/usr/src/app/resources/logs
+    links:
+      - mongo
+  mongo:
+    container_name: dictionary-mongo-app
+    image: mongo
+    volumes:
+      - /data/db
+    ports:
+      - "27017:27017"
